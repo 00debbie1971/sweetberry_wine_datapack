@@ -1,0 +1,13 @@
+{
+    "condition": 
+    "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "item": "sweetberry_wine:sweetberry_wine",
+                "nbt": "{CustomModelData:1}"
+            }
+        }
+    }
+}

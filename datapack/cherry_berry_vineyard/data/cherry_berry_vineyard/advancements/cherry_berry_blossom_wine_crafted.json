@@ -1,0 +1,30 @@
+{
+    "criteria": {
+      "cherry_berry_blossom_wine_crafted": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "cherry_berry_vineyard:cherry_berry_blossom_wine"
+        }
+    
+      }
+    },
+    "display": {
+      "title": {
+        "translate": "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine.title"
+      },
+      "description": {
+        "translate": "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine.description"
+      },
+      "icon": {
+        "item": "minecraft:honey_bottle",
+        "nbt": "{CustomModelData:3}"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "rewards": {
+      "function": "cherry_berry_vineyard:cherry_berry_blossom_wine_rewards"      
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bsb",
+        " b ",
+        " B "
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:sweet_berries"
+        },
+        "s": {
+            "item": "minecraft:sugar"
+        },
+        "B": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "item.cherry_berry_vineyard.sweetberry_wine.name": "Sweetberry Wine",
+    "item.cherry_berry_vineyard.sweetberry_wine.lore": "Crafted with love.",
+    "advancements.cherry_berry_vineyard.sweetberry_wine.title": "Sweetberry Wine",
+    "advancements.cherry_berry_vineyard.sweetberry_wine.description": "Craft some sweetberry wine.",
+    "advancements.cherry_berry_vineyard.sweetberry_wine_consumed.title": "Sweetberry Wine",
+    "advancements.cherry_berry_vineyard.sweetberry_wine_consumed.description": "Drink more Sweetberry Wine.",
+    "advancements.cherry_berry_vineyard.golden_sweetberry_wine.title": "Golden Sweetberry Wine",
+    "advancements.cherry_berry_vineyard.golden_sweetberry_wine.description": "Craft some Golden Sweetberry Wine.",
+    "advancements.cherry_berry_vineyard.golden_sweetberry_wine_consumed.title": "Golden Sweetberry Wine",
+    "advancements.cherry_berry_vineyard.golden_sweetberry_wine_consumed.description": "Drink more Golden Sweetberry Wine.",
+    "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine.title": "Cherry Berry Blossom Wine",
+    "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine.description": "Craft some Cherry Berry Blossom Wine.",
+    "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine_consumed.title": "Cherry Berry Blossom Wine",
+    "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine_consumed.description": "Drink more Cherry Berry Blossom Wine."
+}

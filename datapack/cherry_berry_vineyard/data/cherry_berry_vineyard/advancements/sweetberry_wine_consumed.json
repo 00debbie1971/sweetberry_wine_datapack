@@ -1,0 +1,32 @@
+{
+    "criteria": {
+      "sweetberry_wine_consumed": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "item": "minecraft:honey_bottle",
+            "nbt": "{CustomModelData:1}"
+          }
+        }
+      }
+    },
+    "display": {
+        "title": {
+          "translate": "advancements.cherry_berry_vineyard.sweetberry_wine_consumed.title"
+        },
+        "description": {
+          "translate": "advancements.cherry_berry_vineyard.sweetberry_wine_consumed.description"
+        },
+        "icon": {
+          "item": "minecraft:honey_bottle",
+          "nbt": "{CustomModelData:1}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },   
+    "rewards": {
+      "function": "cherry_berry_vineyard:sweetberry_wine_effect"
+    }
+  }

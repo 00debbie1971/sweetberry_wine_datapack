@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries",
+      "count": 1
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "count": 1
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:honey_bottle",
+    "count": 1,
+    "nbt": "{CustomModelData:1}"
+  }
+  
+}

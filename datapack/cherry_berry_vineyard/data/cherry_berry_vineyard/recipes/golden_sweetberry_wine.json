@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bsb",
+        "gbg",
+        "gBg"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:glass_bottle"
+        },
+        "g": {
+            "item": "minecraft:gold_nugget"
+        }, 
+        "b": {
+            "item": "minecraft:sweet_berries"
+        },
+        "s": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1,
+        "nbt": "{CustomModelData: 2}"
+    }
+}

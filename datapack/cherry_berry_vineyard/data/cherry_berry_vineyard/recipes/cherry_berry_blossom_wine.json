@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bsb",
+        "CbC",
+        "CBC"
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:sweet_berries"
+        },
+        "s": {
+            "item": "minecraft:sugar"
+        },
+        "B": {
+            "item": "minecraft:glass_bottle"
+        },
+        "C": {
+            "item": "minecraft:pink_petals"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1,
+        "nbt": "{CustomModelData: 3}"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "criteria": {
+      "golden_sweetberry_wine_crafted": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "cherry_berry_vineyard:golden_sweetberry_wine"
+        }
+    
+      }
+    },
+    "display": {
+      "title": {
+        "translate": "advancements.cherry_berry_vineyard.golden_sweetberry_wine.title"
+      },
+      "description": {
+        "translate": "advancements.cherry_berry_vineyard.golden_sweetberry_wine.description"
+      },
+      "icon": {
+        "item": "minecraft:honey_bottle",
+        "nbt": "{CustomModelData:2}"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "rewards": {
+      "function": "cherry_berry_vineyard:golden_sweetberry_rewards"      
+    }
+}

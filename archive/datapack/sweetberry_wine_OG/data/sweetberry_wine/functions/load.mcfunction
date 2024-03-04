@@ -1,0 +1,1 @@
+tellraw @a {"text":"Sweetberry Wine Datapack has successfully loaded!","color": "gold"} 

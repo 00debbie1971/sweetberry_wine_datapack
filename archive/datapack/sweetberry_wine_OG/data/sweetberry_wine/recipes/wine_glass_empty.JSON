@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "g g",
+    " g "
+  ], 
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "sweetberry_wine:wine_glass_empty",
+    "count": 1,
+    "nbt": "{CustomModelData:1}"
+  }
+  
+}

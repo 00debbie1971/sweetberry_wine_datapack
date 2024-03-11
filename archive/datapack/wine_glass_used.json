@@ -1,0 +1,31 @@
+{
+    "criteria": {
+      "wine_glass_used": {
+        "trigger": "minecraft:used_ender_eye",
+        "conditions": {
+          "item": {
+            "item": "minecraft:ender_pearl",
+            "nbt": "{CustomModelData:1}"
+          }
+        }
+      }
+    },
+    "display": {
+        "title": {
+          "translate": "advancements.cherry_berry_vineyard.wine_glass_used.title"
+        },
+        "description": {
+          "translate": "advancements.cherry_berry_vineyard.wine_glass_used.description"
+        },
+        "icon": {
+          "item": "cherry_berry_vineyard:item/wine_glass"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },   
+    "rewards": {
+      "function": "cherry_berry_vineyard:set_teleport_location"
+    }
+  }

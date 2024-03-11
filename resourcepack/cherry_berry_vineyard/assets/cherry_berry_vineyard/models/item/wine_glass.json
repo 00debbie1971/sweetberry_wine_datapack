@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cherry_berry_vineyard:item/wine_glass"
+  }
+}

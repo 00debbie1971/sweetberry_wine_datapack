@@ -1,0 +1,30 @@
+{
+    "criteria": {
+      "wine_glass_crafted": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "cherry_berry_vineyard:wine_glass"
+        }
+    
+      }
+    },
+    "display": {
+      "title": {
+        "translate": "advancements.cherry_berry_vineyard.wine_glass_crafted.title"
+      },
+      "description": {
+        "translate": "advancements.cherry_berry_vineyard.wine_glass_crafted.description"
+      },
+      "icon": {
+        "item": "minecraft:ender_pearl",
+        "nbt": "{CustomModelData:1}"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "rewards": {
+      "function": "cherry_berry_vineyard:wine_glass_rewards"      
+    }
+}

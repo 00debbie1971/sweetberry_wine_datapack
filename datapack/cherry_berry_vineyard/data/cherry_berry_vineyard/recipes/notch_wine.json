@@ -2,8 +2,8 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "bsb",
-        " b ",
-        " B "
+        "GbG",
+        "GBG"
     ],
     "key": {
         "b": {
@@ -14,11 +14,14 @@
         },
         "B": {
             "item": "minecraft:glass_bottle"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
         }
     },
     "result": {
         "item": "minecraft:knowledge_book",
         "count": 1,
-        "nbt": "{CustomModelData:1}"
+        "nbt": "{CustomModelData: 4}"
     }
 }

@@ -21,6 +21,12 @@
                 "custom_model_data": 3
             },
             "model": "cherry_berry_vineyard:item/cherry_berry_blossom_wine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "cherry_berry_vineyard:item/notch_wine"
         }
     ]
 }

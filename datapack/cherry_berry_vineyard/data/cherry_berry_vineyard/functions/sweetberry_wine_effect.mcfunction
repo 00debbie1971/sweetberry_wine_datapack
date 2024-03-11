@@ -8,7 +8,7 @@ playsound entity.player.burp master @s ~ ~ ~ 1 1
 effect clear @s minecraft:poison
 
 # adds the saturation effect to the Sweetberry Wine item
-tellraw @s ["",{"text":"You feel full and satisfied.","color":"green"}]
+# tellraw @s ["",{"text":"You feel full and satisfied.","color":"green"}]
 effect give @s minecraft:saturation 80 1 true
 
 # adds the regeneration effect to the Sweetberry Wine item
@@ -21,5 +21,7 @@ effect give @s minecraft:slowness 5 1 true
 effect give @s minecraft:blindness 5 1 true
 
 # revokes the advancement for the Sweetberry Wine item
-tellraw @s ["",{"text":"Drink more Sweetberry Wine.","color":"green"}]
+# tellraw @s ["",{"text":"Drink more Sweetberry Wine.","color":"green"}]
 advancement revoke @s only cherry_berry_vineyard:sweetberry_wine_consumed sweetberry_wine_consumed
+
+schedule function cherry_berry_vineyard:sweetberry_schedule 20t replace

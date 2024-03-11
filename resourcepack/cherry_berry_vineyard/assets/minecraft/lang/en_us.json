@@ -12,5 +12,11 @@
     "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine.title": "Cherry Berry Blossom Wine",
     "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine.description": "Craft some Cherry Berry Blossom Wine.",
     "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine_consumed.title": "Cherry Berry Blossom Wine",
-    "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine_consumed.description": "Drink more Cherry Berry Blossom Wine."
+    "advancements.cherry_berry_vineyard.cherry_berry_blossom_wine_consumed.description": "Drink more Cherry Berry Blossom Wine.",
+    "advancements.cherry_berry_vineyard.notch_wine.title": "Notch Wine",
+    "advancements.cherry_berry_vineyard.notch_wine.description": "Craft some Notch Wine.",
+    "advancements.cherry_berry_vineyard.notch_wine_consumed.title": "Notch Wine",
+    "advancements.cherry_berry_vineyard.notch_wine_consumed.description": "Drink more Notch Wine.",
+    "advancements.cherry_berry_vineyard.wine_glass_crafted.title": "Disciple of Notch",
+    "advancements.cherry_berry_vineyard.wine_glass_crafted.description": "Drink more Notch Wine."
 }
